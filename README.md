@@ -1,7 +1,9 @@
 # Plan&Do
 
 ## Development
-```npm install -g ionic cordova```
+```
+npm install -g ionic cordova
+```
 
 ## License
 
